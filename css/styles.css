@@ -102,6 +102,17 @@ p{
   margin-left: 30px;
 }
 
+.projects{
+  width: 30%;
+  margin:auto;
+}
+
+.project-lists{
+  color:  #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
 .contactmsg {
   width: 40%;
   margin: 40px auto 60px;

@@ -103,14 +103,12 @@ p{
 }
 
 .projects{
-  width: 30%;
   margin:auto;
+
 }
 
-.project-lists{
-  color:  #66BFBF;
-  font-family: 'Montserrat', sans-serif;
-  color: #11999E;
+.project-lists:hover {
+  color: #30E3CB;
 }
 
 .contactmsg {
